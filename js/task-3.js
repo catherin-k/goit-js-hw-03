@@ -42,3 +42,16 @@ const sellers = {
 };
 console.log(findBestEmployee(sellers));
 // 'lux'
+
+// VOVA
+
+let maxTasks = 0;
+//   let BestEmployee = "";
+//   const keys = Object.keys(employees);
+//   for (let key of keys) {
+//     if (employees[key] > maxTasks) {
+//       maxTasks = employees[key];
+//       BestEmployee = key;
+//     }
+//   }
+//   return BestEmployee;
